@@ -1,4 +1,4 @@
-name: Cherry Pick CI (Pre-release Feature Backport)
+name: Build AndroidAPS
 
 on:
   workflow_dispatch:
